@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tps.iml" filepath="$PROJECT_DIR$/tps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-beans/tps-beans.iml" filepath="$PROJECT_DIR$/tps-beans/tps-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-dao/tps-dao.iml" filepath="$PROJECT_DIR$/tps-dao/tps-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-foundtion/tps-foundtion.iml" filepath="$PROJECT_DIR$/tps-foundtion/tps-foundtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-service/tps-service.iml" filepath="$PROJECT_DIR$/tps-service/tps-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-utils/tps-utils.iml" filepath="$PROJECT_DIR$/tps-utils/tps-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tps-web/tps-web.iml" filepath="$PROJECT_DIR$/tps-web/tps-web.iml" />
+    </modules>
+  </component>
+</project>

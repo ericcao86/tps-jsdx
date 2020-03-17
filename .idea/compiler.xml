@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tps-web" />
+        <module name="tps-foundtion" />
+        <module name="tps-service" />
+        <module name="tps-utils" />
+        <module name="tps-dao" />
+        <module name="tps-beans" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tps" target="1.8" />
+      <module name="tps-beans" target="1.8" />
+      <module name="tps-dao" target="1.8" />
+      <module name="tps-foundtion" target="1.8" />
+      <module name="tps-service" target="1.8" />
+      <module name="tps-utils" target="1.8" />
+      <module name="tps-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
