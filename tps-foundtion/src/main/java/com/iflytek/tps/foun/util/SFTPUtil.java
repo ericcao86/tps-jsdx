@@ -179,6 +179,9 @@ public class SFTPUtil {
         return sftp.ls(directory);
     }
 
+    public ChannelSftp getSftp() {
+        return sftp;
+    }
     //上传文件测试
 //    public static void main(String[] args) throws SftpException, IOException {
 //        SFTPUtil sftp = new SFTPUtil("用户名", "密码", "ip地址", 22);
